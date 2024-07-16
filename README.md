@@ -51,6 +51,9 @@ The purpose of this test plan is to ensure that the ISS Communication System Dem
 
 This test plan verified the functionality and performance of the ISS Communication System Demo application's backend components. The test results indicate that the system meets the required standards, and no critical defects or issues were found.
 
+![alt text](https://github.com/SpectralAUT/nasa_demo_test_plan/blob/master/.inspirations/profile-pic.png)
+
+
 @Author: JTous 024/07
 
 
